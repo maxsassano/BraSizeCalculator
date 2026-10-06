@@ -1,6 +1,6 @@
 ---
 name: 🐛 Segnala un bug
-about: Segnala un problema o un comportamento anomalo di GMExtractions
+about: Segnala un problema o un comportamento anomalo di BraSizeCalculator
 title: "[BUG] <breve descrizione>"
 labels: bug
 assignees: ''
@@ -32,7 +32,7 @@ Se possibile, allega uno o più screenshot per chiarire il problema.
 
 ## Ambiente
 
-- **Versione GMExtractions:** (es. v1.0.0)
+- **Versione BraSizeCalculator:** (es. v1.0.0)
 - **Sistema operativo:** (es. Windows 11 64 bit)
 - **Altro:** (browser, dispositivo, ecc. se rilevante)
 
