@@ -24,9 +24,16 @@ App Android per calcolare in modo semplice e preciso la taglia del reggiseno, co
 ## 📸 Screenshot
 
 ![Home](Screen/home.png)
+
 ![Semplice](Screen/semplice.png)
 ![Preciso](Screen/preciso.png)
-![Guida](Screen/guida.png)
+
+![Guida](Screen/guidaA.png)
+![Guida](Screen/guidaB.png)
+
+![Guida](Screen/infoA.png)
+![Guida](Screen/infoB.png)
+
 
 ---
 
