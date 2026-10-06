@@ -1,1 +1,125 @@
-# BraSizeCalculator
+# 👙 Bra Size Calculator
+
+App Android per calcolare in modo semplice e preciso la taglia del reggiseno, con supporto per i sistemi di misurazione italiano, europeo, britannico e americano.
+
+[![Android](https://img.shields.io/badge/Android-7.0%2B-green)](https://www.android.com)
+[![Version](https://img.shields.io/badge/version-1.0-yellow)](https://github.com/maxsassano/BraSizeCalculator/releases)
+[![License](https://img.shields.io/badge/license-MIT-orange)](LICENSE)
+
+---
+
+## ✨ Funzionalità
+
+- **Metodo SEMPLICE**: calcolo rapido con 2 misure (sottoseno + seno)
+- **Metodo PRECISO**: calcolo accurato basato sul metodo **ABTF** con 6 misure
+- **Taglia italiana** completa: numero ordinale (0ª-12ª) + lettera coppa (A-K)
+- **Conversioni internazionali**: IT, SMART, EU, FR/ES, DE, UK, US
+- **Taglie sorelle**: suggerisce taglie alternative con stesso volume
+- **Guida visiva** passo-passo con immagini
+- **Multilingua**: italiano + inglese (automatico in base alla lingua del telefono)
+- **Privacy totale**: funziona completamente offline, nessun dato inviato
+
+---
+
+## 📸 Screenshot
+
+![Home](Screen/home.png)
+![Semplice](Screen/semplice.png)
+![Preciso](Screen/preciso.png)
+![Guida](Screen/guida.png)
+
+---
+
+## 📥 Download
+
+👉 [**Scarica l'ultima versione**](https://github.com/maxsassano/BraSizeCalculator/releases/latest)
+
+**Requisiti:** Android 7.0 (API 24) o superiore
+
+**Installazione:**
+1. Scarica `BraSizeCalculator.apk` sul telefono
+2. Impostazioni → Sicurezza → Origini sconosciute (attiva)
+3. Apri l'APK → Installa
+
+---
+
+## 🚀 Come si usa
+
+**Metodo SEMPLICE** — solo 2 misure
+- Circonferenza sottoseno (A)
+- Circonferenza seno (B)
+
+**Metodo PRECISO** — 6 misure ABTF
+- Sottoseno: loose (lento), snug (comodo), tight (stretto)
+- Seno: standing (in piedi), leaning (inclinato 90°), lying (sdraiato)
+
+**Guida visiva** con immagini e istruzioni passo-passo.
+
+**Info** con tabelle di conversione, sistema SMART, taglie sorelle e FAQ.
+
+---
+
+## 📊 Tabelle di conversione
+
+| IT | EU | FR/ES | DE | UK | US |
+|----|----|----|----|----|----|
+| 0 | 65 | 80 | 65 | 30 | 30 |
+| 1 | 70 | 85 | 70 | 32 | 32 |
+| 2 | 75 | 90 | 75 | 34 | 34 |
+| 3 | 80 | 95 | 80 | 36 | 36 |
+| 4 | 85 | 100 | 85 | 38 | 38 |
+| 5 | 90 | 105 | 90 | 40 | 40 |
+| 6 | 95 | 110 | 95 | 42 | 42 |
+| 7 | 100 | 115 | 100 | 44 | 44 |
+| 8 | 105 | 120 | 105 | 46 | 46 |
+
+---
+
+## 🔒 Privacy
+
+- Nessuna registrazione richiesta
+- Nessun dato personale raccolto
+- Nessuna connessione internet
+- Tutti i calcoli avvengono sul dispositivo
+
+---
+
+## 📋 Changelog
+
+### v1.0 — 6 ottobre 2026
+- ✨ Prima release pubblica
+- ✨ Doppio metodo: Semplice (2 misure) + Preciso (6 misure ABTF)
+- ✨ Calcolo taglia italiana completa
+- ✨ Conversioni internazionali (IT, SMART, EU, FR, DE, UK, US)
+- ✨ Taglie sorelle
+- ✨ Guida visiva interattiva
+- ✨ Multilingua IT/EN
+- ✨ Privacy garantita (offline)
+
+---
+
+## 📄 Licenza
+
+MIT — vedi [LICENSE](LICENSE)
+
+---
+
+## ☕ Sostieni il progetto
+
+[![PayPal](https://img.shields.io/badge/PayPal-Offrimi%20un%20caffè-0070BA?logo=paypal)](https://paypal.me/veruscatanese)
+
+---
+
+## 🙏 Crediti
+
+- **Metodologia**: A Bra That Fits (ABTF), community open source
+- **Tabelle**: Loveable, Playtex, Beldona, Creazioni Selene
+- **Sviluppo**: .NET MAUI + C#
+
+---
+
+<p align="center">
+  <b>Bra Size Calculator v1.0</b><br>
+  © 2026 Massimo Sassano<br>
+  Made with ❤️ in Italia
+</p>
